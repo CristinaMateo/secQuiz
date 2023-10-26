@@ -19,7 +19,7 @@ Check your progress, will you be able to beat yourself?
 ![progress chart](./assets/readme4.png)
 
 
-## Used in this porject:
+## Used in this project:
 
 - HTML for structure
 - CSS for styling, mobile first adapting and flexbox
