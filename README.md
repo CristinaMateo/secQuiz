@@ -1,5 +1,5 @@
 # TeleQuiz
-visit page here: https://juhing-99.github.io/secQuiz/
+[visit page here](https://juhing-99.github.io/secQuiz/)
 
 ![Title](./assets/readmeTitle.png)
 
